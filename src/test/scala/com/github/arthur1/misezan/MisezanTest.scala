@@ -1,4 +1,4 @@
-package com.github.arthur1.misezan
+package io.github.arthur1.misezan
 
 import org.scalatest.funsuite.AnyFunSuite
 import org.scalatest.matchers.should.Matchers

@@ -1,4 +1,4 @@
-package com.github.arthur1.misezan
+package io.github.arthur1.misezan
 
 extension (i: Int)
   def mise(j: Int): BigDecimal = {
